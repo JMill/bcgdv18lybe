@@ -5,7 +5,7 @@ Team: LYBE (pronounced 'lie-bee') lybe.life
 
 Contributors:
 * Bobby Zhang
-* Jade Shy
+* Jade Shyu
 * Jonathan Miller
 * Hadrien Royal
 
